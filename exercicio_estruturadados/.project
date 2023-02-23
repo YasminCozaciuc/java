@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>aula_05</name>
+	<name>exercicio_estruturadados</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -14,11 +14,4 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
-	<linkedResources>
-		<link>
-			<name>src/aula_05/Pilha.java</name>
-			<type>1</type>
-			<location>C:/Users/yasmi/Downloads/Pilha.java</location>
-		</link>
-	</linkedResources>
 </projectDescription>
