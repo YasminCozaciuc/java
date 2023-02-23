@@ -46,6 +46,8 @@ System.out.println("\nElementos da diagonal secundária: ");
             }
 		}
 		
+		
+		
 		leia.close();
 	
 		}
